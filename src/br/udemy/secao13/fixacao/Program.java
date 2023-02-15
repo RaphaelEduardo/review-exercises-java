@@ -2,7 +2,7 @@ package br.udemy.secao13.fixacao;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Modelo {
+public class Program {
 	public static void main(String[] args) {
 
 		Locale.setDefault(Locale.US);
